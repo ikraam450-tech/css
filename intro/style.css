@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+
+body{
+    background-color: yellow;
+}
+
+#first {
+font-size: 80px;
+}
+
+.all_boders{
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    border-radius: 20px;
+}

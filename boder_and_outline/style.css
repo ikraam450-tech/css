@@ -1,0 +1,45 @@
+p{
+
+    border-style: solid;
+    border-color: green;
+    border-width: 3px;
+    outline-offset: 100px;
+    outline-width: 50px;
+    outline-color: black;
+}
+
+
+
+
+
+
+
+
+
+#box1{
+
+
+    border-style:solid;
+    border-color: blue;
+    border-width: 5px;
+    border-radius: 50px;
+    /*border-top-color: black;*/
+    /* border-bottom-style: dashed; */
+    outline-style: solid;
+    outline-width: 5px;
+    outline-offset: 5px;
+}
+.box2{
+  /* border-style: solid;
+  text-align: center;
+  border-width: 5px;
+  width: 500px;
+  height: 500px;
+  border-width: 50px;
+  border-color: gray;
+  outline-style: solid; */
+  border: blue solid 5px ;
+  outline: ;
+
+}
+

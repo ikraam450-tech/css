@@ -1,0 +1,10 @@
+h1 {
+    font: bolder, 100px/1.8em , batania;
+
+}
+
+p{
+    line-height: 1.6;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
